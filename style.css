@@ -56,3 +56,7 @@ img {
     margin: auto;
     text-align: center;
 }
+
+.rounded-edges {
+    border-radius: 15px;
+}
